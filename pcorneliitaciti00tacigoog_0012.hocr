@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pcorneliitaciti00tacigoog_0012.png"; bbox 0 0 2692 4596; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 294 115 324 190">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 294 115 324 190">
+     <span class='ocr_line' id='line_1_1' title="bbox 294 115 324 190; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 294 115 324 190; x_wconf 90' lang='grc' dir='ltr'><em>Ο</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 230 531 1054 714">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 230 531 1054 714">
+     <span class='ocr_line' id='line_1_2' title="bbox 230 531 1054 714; baseline -0.004 -59"><span class='ocrx_word' id='word_1_2' title='bbox 230 535 293 656; x_wconf 92' lang='grc' dir='ltr'>Ρ.</span> <span class='ocrx_word' id='word_1_3' title='bbox 331 531 733 657; x_wconf 81' lang='lat' dir='ltr'>CORNELII</span> <span class='ocrx_word' id='word_1_4' title='bbox 773 531 1054 714; x_wconf 49' lang='lat' dir='ltr'>{Aoffl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 329 938 960 1024">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 329 938 960 1024">
+     <span class='ocr_line' id='line_1_3' title="bbox 329 938 960 1024; baseline 0.002 -2"><span class='ocrx_word' id='word_1_5' title='bbox 329 940 407 1022; x_wconf 80' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_6' title='bbox 435 940 577 1024; x_wconf 88' lang='lat' dir='ltr'>VITA</span> <span class='ocrx_word' id='word_1_7' title='bbox 603 939 676 1022; x_wconf 83' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_8' title='bbox 704 938 960 1024; x_wconf 81' lang='lat' dir='ltr'>MORIBUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 100 1169 1188 1321">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 100 1169 1188 1321">
+     <span class='ocr_line' id='line_1_4' title="bbox 100 1169 1188 1321; baseline -0.001 0"><span class='ocrx_word' id='word_1_9' title='bbox 100 1169 264 1321; x_wconf 84' lang='lat' dir='ltr'>CN.</span> <span class='ocrx_word' id='word_1_10' title='bbox 308 1170 436 1318; x_wconf 87' lang='lat' dir='ltr'>JU</span> <span class='ocrx_word' id='word_1_11' title='bbox 439 1171 527 1318; x_wconf 91' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_12' title='bbox 572 1169 1188 1321; x_wconf 83' lang='lat' dir='ltr'><strong>AGRIOOLAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1350 4596">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1350 4596">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1350 4596; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1350 4596; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

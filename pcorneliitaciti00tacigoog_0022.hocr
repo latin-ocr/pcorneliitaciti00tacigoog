@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pcorneliitaciti00tacigoog_0022.png"; bbox 0 0 2692 4596; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 455 1555 880 1624">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 455 1555 880 1624">
+     <span class='ocr_line' id='line_1_1' title="bbox 455 1555 880 1624; baseline 0.009 -4"><span class='ocrx_word' id='word_1_1' title='bbox 455 1555 651 1623; x_wconf 77' lang='lat' dir='ltr'>MEINEM</span> <span class='ocrx_word' id='word_1_2' title='bbox 681 1556 880 1624; x_wconf 80' lang='lat' dir='ltr'>LEHRER</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 274 1813 1053 1937">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 274 1813 1053 1937">
+     <span class='ocr_line' id='line_1_2' title="bbox 274 1813 1053 1937; baseline 0.004 -3"><span class='ocrx_word' id='word_1_3' title='bbox 274 1813 663 1936; x_wconf 85' lang='lat' dir='ltr'><strong>HERMAN</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 672 1814 731 1935; x_wconf 90' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_5' title='bbox 784 1815 1053 1937; x_wconf 84' lang='lat' dir='ltr'><strong>DIELS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 495 2111 835 2171">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 495 2111 835 2171">
+     <span class='ocr_line' id='line_1_3' title="bbox 495 2111 835 2171; baseline 0.009 -2"><span class='ocrx_word' id='word_1_6' title='bbox 495 2113 534 2169; x_wconf 86' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 551 2111 835 2171; x_wconf 81' lang='lat' dir='ltr'><strong>DANKBARKEIT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1350 4596">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1350 4596">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1350 4596; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1350 4596; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
